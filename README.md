@@ -11,40 +11,9 @@ based on the information parsed and can access categories data by using GET whic
 entry. And the user can use delete to delete existing category, device, or zone. The user can use another GET which retrieve all devices within a specific category. And
 the user can use GET return the number of zones that are associated to a specific category. 
 
-Refernce List
+End Points
 
-https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio
-https://docs.microsoft.com/en-us/training/modules/build-web-api-aspnet-core/
-https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-3.1
-https://www.simplilearn.com/azure-cloud-services-and-its-importance-article
-https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal
-https://docs.microsoft.com/en-us/azure/azure-sql/database/single-database-create-quickstart?view=azuresql&tabs=azure-portal
-
-https://docs.microsoft.com/en-us/training/paths/create-microservices-with-dotnet/
-https://technologyadvice.com/blog/information-technology/how-to-use-an-api/
-https://www.altexsoft.com/blog/rest-api-design/
-https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-implementation
-https://cloud.google.com/apis
-https://www.akana.com/resources/cloud-apis
-https://www.datacenterknowledge.com/archives/2012/10/16/understanding-cloud-integration-a-look-at-apis
-https://www.cloudmanagementinsider.com/how-apis-are-simplifying-the-cloud-environment/
-https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/methods
-https://swagger.io
-https://github.com/swagger-api
-https://docs.microsoft.com/en-us/sql/ssms/quickstarts/ssms-connect-query-sql-server?view=sql-server-ver16
-https://docs.microsoft.com/en-us/sql/relational-databases/lesson-1-connecting-to-the-database-engine?view=sql-server-ver16
-https://www.mssqltips.com/sqlservertip/7185/sql-server-management-studio-connect-navigate-query/
-https://docs.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server?view=sql-server-ver16
-https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/creating-a-connection-string
-https://stackoverflow.com/questions/15631602/how-can-i-set-an-sql-server-connection-string
-https://rapidapi.com/blog/api-glossary/get/
-https://hbr.org/2021/04/apis-arent-just-for-tech-companies#:~:text=APIs%20enable%20mobile%20experiences%2C%20connect,to%20unlocking%20their%20digital%20transformations.
-https://hbr.org/2021/04/apis-arent-just-for-tech-companies#:~:text=APIs%20enable%20mobile%20experiences%2C%20connect,to%20unlocking%20their%20digital%20transformations.
-https://www.simplilearn.com/azure-cloud-services-and-its-importance-article
-https://dev.to/azure/create-and-connect-to-an-azure-sql-db-9k0
-https://www.c-sharpcorner.com/article/azure-data-studio-create-query-and-delete-in-sql-server/
-
-
+![323](https://user-images.githubusercontent.com/110164074/189750399-264fd053-6f8c-4287-993b-55b1db7b27c3.PNG)
 
 
 
